@@ -10,17 +10,17 @@
 
 ### 2. [EXAMPLES FOLDER](https://pages.uoregon.edu/sbaker8/110/examples/)
 
-### 3. [JS](https://pages.uoregon.edu/sbaker8/110/js/)
+### 3. [JS FOLDER](https://pages.uoregon.edu/sbaker8/110/js/)
 
-### 4. [P1](https://pages.uoregon.edu/sbaker8/110/p1/)
+### 4. [P1 FOLDER](https://pages.uoregon.edu/sbaker8/110/p1/)
 
-### 5. [P2](https://pages.uoregon.edu/sbaker8/110/p2/)
+### 5. [P2 FOLDER](https://pages.uoregon.edu/sbaker8/110/p2/)
 
-### 6. [P3](https://pages.uoregon.edu/sbaker8/110/p3/)
+### 6. [P3 FOLDER](https://pages.uoregon.edu/sbaker8/110/p3/)
 
-### 7. [P4](https://pages.uoregon.edu/sbaker8/110/p4/)
+### 7. [P4 FOLDER](https://pages.uoregon.edu/sbaker8/110/p4/)
 
-### 8. [P5](https://pages.uoregon.edu/sbaker8/110/p5/)
+### 8. [P5 FOLDER](https://pages.uoregon.edu/sbaker8/110/p5/)
 
-### 9. [PROFILE](https://pages.uoregon.edu/sbaker8/110/profile/)
+### 9. [PROFILE FOLDER](https://pages.uoregon.edu/sbaker8/110/profile/)
 
