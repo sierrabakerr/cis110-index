@@ -1,4 +1,4 @@
-# Index CIS 110
+# CIS 110
 
 [RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
